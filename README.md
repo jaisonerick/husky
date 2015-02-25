@@ -1,5 +1,7 @@
 # Husky
 
+[![Join the chat at https://gitter.im/jaisonerick/husky](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jaisonerick/husky?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Another Frontend Boilerplate
 
 ## Work in Progress
